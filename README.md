@@ -33,8 +33,6 @@ The project demonstrates how to use Monte Carlo simulations in a mean-reverting 
 3. Run Monte Carlo simulations using `monte_carlo_simulation.py`.
 4. Backtest the strategy using `backtesting.py`.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For questions, feedback, or contributions, please open an issue or submit a pull request.
